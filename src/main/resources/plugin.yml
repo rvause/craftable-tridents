@@ -1,0 +1,11 @@
+name: CraftableTridents
+version: 0.1.1
+main: io.github.rvause.craftabletridents.CraftableTridents
+api-version: 1.13
+authors: [rvause]
+description: Craftable tridents for your Paper MC server
+website: https://github.com/rvause/craftable-tridents
+permissions:
+  ctridents.craft:
+      description: Permission node to craft Tridents
+      default: false
